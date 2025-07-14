@@ -17,4 +17,8 @@
     <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="10.0.0-preview.5.25277.114" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Restaurants\Validators\" />
+  </ItemGroup>
+
 </Project>
